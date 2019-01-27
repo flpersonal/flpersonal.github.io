@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-01-27T09:30:44+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">flPersonal</title><subtitle>Blog personal en el que trataremos sobre un amplio abanico de herramientas de gestión empresarial.</subtitle><entry><title type="html">La cuenta de resultados</title><link href="http://localhost:4000/2019/01/21/la-cuenta-de-resultados.html" rel="alternate" type="text/html" title="La cuenta de resultados" /><published>2019-01-21T19:16:31+01:00</published><updated>2019-01-21T19:16:31+01:00</updated><id>http://localhost:4000/2019/01/21/la-cuenta-de-resultados</id><content type="html" xml:base="http://localhost:4000/2019/01/21/la-cuenta-de-resultados.html">&lt;p&gt;Siendo uno de los principales objetivos de una empresa el ganar dinero,
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-01-27T12:19:37+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">flPersonal</title><subtitle>Blog personal en el que trataremos sobre un amplio abanico de herramientas de gestión empresarial.</subtitle><entry><title type="html">La cuenta de resultados</title><link href="http://localhost:4000/2019/01/21/la-cuenta-de-resultados.html" rel="alternate" type="text/html" title="La cuenta de resultados" /><published>2019-01-21T19:16:31+01:00</published><updated>2019-01-21T19:16:31+01:00</updated><id>http://localhost:4000/2019/01/21/la-cuenta-de-resultados</id><content type="html" xml:base="http://localhost:4000/2019/01/21/la-cuenta-de-resultados.html">&lt;p&gt;Siendo uno de los principales objetivos de una empresa el ganar dinero,
 es fundamental para el devenir de una empresa conocer si realmente la actividad
 que está generando está proporcionando beneficios o no. La herramienta que
 permite determinar si en un determinado periodo de tiempo la empresa ha generando
@@ -35,7 +35,7 @@ de resultados.&lt;/p&gt;
   &lt;tr&gt;
     &lt;td&gt;= B.N. (Beneficio neto)&lt;br /&gt;&lt;/td&gt;
   &lt;/tr&gt;
-&lt;/table&gt;</content><author><name></name></author><summary type="html">Siendo uno de los principales objetivos de una empresa el ganar dinero, es fundamental para el devenir de una empresa conocer si realmente la actividad que está generando está proporcionando beneficios o no. La herramienta que permite determinar si en un determinado periodo de tiempo la empresa ha generando dinero o no el la cuenta de resultados. En la cuenta de resultados se calculan tanto los ingresos como los gastos, cuya diferencia proporciona el resultado. Veamos la estructura general de una cuenta de resultados. + Ingresos por ventas - Gastos variables = MARGEN BRUTO - Gastos fijos = E.B.I.T.D.A (Earning before interest, taxes, depreciation and amortization) - Amortizaciones y depreciaciones = E.B.I.T (Earning before interest and taxes) - Intereses e impuestos = B.N. (Beneficio neto)</summary></entry><entry><title type="html">El balance de situación</title><link href="http://localhost:4000/2019/01/19/el-balance-de-situacion.html" rel="alternate" type="text/html" title="El balance de situación" /><published>2019-01-19T11:29:47+01:00</published><updated>2019-01-19T11:29:47+01:00</updated><id>http://localhost:4000/2019/01/19/el-balance-de-situacion</id><content type="html" xml:base="http://localhost:4000/2019/01/19/el-balance-de-situacion.html">&lt;p&gt;En este post trataremos sobre una de las herramientas más importantes para determinar el estado financiero actual de una empresa, el balance de situación.&lt;/p&gt;
+&lt;/table&gt;</content><author><name></name></author><category term="contabilidad" /><category term="finanzas" /><summary type="html">Siendo uno de los principales objetivos de una empresa el ganar dinero, es fundamental para el devenir de una empresa conocer si realmente la actividad que está generando está proporcionando beneficios o no. La herramienta que permite determinar si en un determinado periodo de tiempo la empresa ha generando dinero o no el la cuenta de resultados. En la cuenta de resultados se calculan tanto los ingresos como los gastos, cuya diferencia proporciona el resultado. Veamos la estructura general de una cuenta de resultados. + Ingresos por ventas - Gastos variables = MARGEN BRUTO - Gastos fijos = E.B.I.T.D.A (Earning before interest, taxes, depreciation and amortization) - Amortizaciones y depreciaciones = E.B.I.T (Earning before interest and taxes) - Intereses e impuestos = B.N. (Beneficio neto)</summary></entry><entry><title type="html">El balance de situación</title><link href="http://localhost:4000/2019/01/19/el-balance-de-situacion.html" rel="alternate" type="text/html" title="El balance de situación" /><published>2019-01-19T11:29:47+01:00</published><updated>2019-01-19T11:29:47+01:00</updated><id>http://localhost:4000/2019/01/19/el-balance-de-situacion</id><content type="html" xml:base="http://localhost:4000/2019/01/19/el-balance-de-situacion.html">&lt;p&gt;En este post trataremos sobre una de las herramientas más importantes para determinar el estado financiero actual de una empresa, el balance de situación.&lt;/p&gt;
 
 &lt;p&gt;Utilizando la normativa del &lt;a href=&quot;https://boe.es/boe/dias/2007/11/20/pdfs/C00001-00152.pdf&quot;&gt;Plan General Contable&lt;/a&gt;, el proceso contable permite obtener el Balance de Situación. La potencia que ofrece esta herramienta es que permite determinar ratios (sobre los que trataremos en este blog) tan importantes como la liquidez, la solvencia de la empresa o la rentabilidad.
 Veamos la estructura de un balance de situación:&lt;/p&gt;
@@ -44,62 +44,97 @@ Veamos la estructura de un balance de situación:&lt;/p&gt;
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
 .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg .tg-s6z2{text-align:center}
-.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-88nc{font-weight:bold;border-color:inherit;text-align:center}
+.tg .tg-7btt{font-weight:bold;border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-xldj{border-color:inherit;text-align:left}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-s268{text-align:left}
 .tg .tg-hgcj{font-weight:bold;text-align:center}
 &lt;/style&gt;
 
 &lt;table class=&quot;tg&quot;&gt;
   &lt;tr&gt;
-    &lt;th class=&quot;tg-hgcj&quot; colspan=&quot;2&quot;&gt;ACTIVO&lt;/th&gt;
-    &lt;th class=&quot;tg-hgcj&quot; colspan=&quot;2&quot;&gt;PATRIMONIO NETO + PASIVO&lt;/th&gt;
+    &lt;th class=&quot;tg-88nc&quot; colspan=&quot;3&quot;&gt;ACTIVO&lt;/th&gt;
+    &lt;th class=&quot;tg-7btt&quot; colspan=&quot;3&quot;&gt;PATRIMONIO NETO + PASIVO&lt;/th&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
-    &lt;td class=&quot;tg-hgcj&quot; rowspan=&quot;5&quot;&gt;ACTIVO NO CORRIENTE&lt;/td&gt;
-    &lt;td class=&quot;tg-s6z2&quot;&gt;Inmovilizado intangible&lt;br /&gt;&lt;/td&gt;
-    &lt;td class=&quot;tg-hgcj&quot; rowspan=&quot;3&quot;&gt;PATRIMONIO NETO&lt;br /&gt;&lt;/td&gt;
-    &lt;td class=&quot;tg-s6z2&quot;&gt;Fondos propios&lt;br /&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-88nc&quot; rowspan=&quot;10&quot;&gt;A) ACTIVO NO CORRIENTE&lt;/td&gt;
+    &lt;td class=&quot;tg-xldj&quot; colspan=&quot;2&quot; rowspan=&quot;2&quot;&gt;I. Inmovilizado inmaterial&lt;br /&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-88nc&quot; rowspan=&quot;6&quot;&gt;A) PATRIMONIO NETO&lt;/td&gt;
+    &lt;td class=&quot;tg-0pky&quot; colspan=&quot;2&quot;&gt;I. Capital&lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
-    &lt;td class=&quot;tg-s6z2&quot;&gt;Inmovilizado material&lt;br /&gt;&lt;/td&gt;
-    &lt;td class=&quot;tg-s6z2&quot;&gt;Ajustes por cambio de valor&lt;/td&gt;
+    &lt;td class=&quot;tg-0pky&quot; colspan=&quot;2&quot;&gt;II. Primas de emisión&lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
-    &lt;td class=&quot;tg-s6z2&quot;&gt;Inversiones inmobiliarias&lt;br /&gt;&lt;/td&gt;
-    &lt;td class=&quot;tg-s6z2&quot;&gt;Suvenciones, donaciones&lt;br /&gt;y legados recibidos&lt;br /&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-xldj&quot; colspan=&quot;2&quot; rowspan=&quot;2&quot;&gt;II. Inmovilizado material&lt;/td&gt;
+    &lt;td class=&quot;tg-0pky&quot; colspan=&quot;2&quot;&gt;III. Reservas&lt;br /&gt;&lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
-    &lt;td class=&quot;tg-s6z2&quot; rowspan=&quot;2&quot;&gt;Inversiones financieras&lt;br /&gt;a largo plazo&lt;br /&gt;&lt;/td&gt;
-    &lt;td class=&quot;tg-hgcj&quot; rowspan=&quot;2&quot;&gt;PASIVO NO CORRIENTE&lt;br /&gt;&lt;/td&gt;
-    &lt;td class=&quot;tg-s6z2&quot;&gt;Provisiones a largo&lt;br /&gt;plazo&lt;br /&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-0lax&quot; colspan=&quot;2&quot;&gt;V. Resultados de ejercicios anteriores&lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
-    &lt;td class=&quot;tg-baqh&quot;&gt;Deudas a largo plazo&lt;/td&gt;
+    &lt;td class=&quot;tg-s268&quot; colspan=&quot;2&quot; rowspan=&quot;2&quot;&gt;III. Inversiones inmobiliarias&lt;/td&gt;
+    &lt;td class=&quot;tg-0lax&quot; colspan=&quot;2&quot;&gt;VI. Otras aportaciones a socios&lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
-    &lt;td class=&quot;tg-hgcj&quot; rowspan=&quot;6&quot;&gt;ACTIVO CORRIENTE&lt;/td&gt;
-    &lt;td class=&quot;tg-s6z2&quot;&gt;Activos no corrientes &lt;br /&gt;mantenidos para la &lt;br /&gt;venta&lt;br /&gt;&lt;/td&gt;
-    &lt;td class=&quot;tg-hgcj&quot; rowspan=&quot;6&quot;&gt;PASIVO CORRIENTE&lt;/td&gt;
-    &lt;td class=&quot;tg-s6z2&quot;&gt;Pasivos vinculados a&lt;br /&gt;activos no corrientes&lt;br /&gt;mantenidos para la venta&lt;br /&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-0lax&quot; colspan=&quot;2&quot;&gt;VII. Resultado del ejercicio&lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
-    &lt;td class=&quot;tg-s6z2&quot;&gt;Existencias&lt;/td&gt;
-    &lt;td class=&quot;tg-s6z2&quot;&gt;Provisiones a corto plazo&lt;/td&gt;
+    &lt;td class=&quot;tg-s268&quot; colspan=&quot;2&quot; rowspan=&quot;2&quot;&gt;IV. Inversiones en empresas del grupo&lt;/td&gt;
+    &lt;td class=&quot;tg-hgcj&quot; rowspan=&quot;4&quot;&gt;B) PASIVO NO CORRIENTE&lt;/td&gt;
+    &lt;td class=&quot;tg-0lax&quot; colspan=&quot;2&quot;&gt;I. Provisiones a largo plazo&lt;br /&gt;&lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
-    &lt;td class=&quot;tg-s6z2&quot;&gt;Deudores&lt;/td&gt;
-    &lt;td class=&quot;tg-s6z2&quot;&gt;Deudas a corto plazo&lt;/td&gt;
+    &lt;td class=&quot;tg-s268&quot; rowspan=&quot;2&quot;&gt;II. Deudas a largo plazo&lt;/td&gt;
+    &lt;td class=&quot;tg-0lax&quot;&gt;1. Deudas con entidades de crédito&lt;br /&gt;&lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
-    &lt;td class=&quot;tg-s6z2&quot;&gt;Inversiones financieras&lt;br /&gt;a corto plazo&lt;br /&gt;&lt;/td&gt;
-    &lt;td class=&quot;tg-s6z2&quot;&gt;Acreedores&lt;/td&gt;
+    &lt;td class=&quot;tg-s268&quot; colspan=&quot;2&quot; rowspan=&quot;2&quot;&gt;v. Inversiones financieras a largo plazo&lt;/td&gt;
+    &lt;td class=&quot;tg-0lax&quot;&gt;2. Otras deudas a largo plazo&lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
-    &lt;td class=&quot;tg-s6z2&quot;&gt;Periodificaciones&lt;/td&gt;
-    &lt;td class=&quot;tg-s6z2&quot; rowspan=&quot;2&quot;&gt;Periodificaciones&lt;/td&gt;
+    &lt;td class=&quot;tg-0lax&quot; colspan=&quot;2&quot;&gt;III. Deudas con empresas del grupo&lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
-    &lt;td class=&quot;tg-s6z2&quot;&gt;Efectivo&lt;/td&gt;
+    &lt;td class=&quot;tg-hgcj&quot; rowspan=&quot;9&quot;&gt;B) ACTIVO CORRIENTE&lt;/td&gt;
+    &lt;td class=&quot;tg-0lax&quot; colspan=&quot;2&quot;&gt;I. Activos no corrientes mantenidos para la venta&lt;/td&gt;
+    &lt;td class=&quot;tg-hgcj&quot; rowspan=&quot;9&quot;&gt;C) PASIVO CORRIENTE&lt;br /&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-0lax&quot; colspan=&quot;2&quot;&gt;I. Pasivos vinculados con activos no corrientes mantenidos para la venta&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&quot;tg-0lax&quot; colspan=&quot;2&quot;&gt;II. Existencias&lt;/td&gt;
+    &lt;td class=&quot;tg-0lax&quot; colspan=&quot;2&quot;&gt;II. Provisiones a corto plazo&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&quot;tg-s268&quot; rowspan=&quot;3&quot;&gt;III. Deudores comerciales y otras cuentas a cobrar&lt;/td&gt;
+    &lt;td class=&quot;tg-0lax&quot;&gt;1. Clientes por ventas y prestaciones de servicios&lt;/td&gt;
+    &lt;td class=&quot;tg-s268&quot; rowspan=&quot;2&quot;&gt;III. Deudas a corto plazo&lt;/td&gt;
+    &lt;td class=&quot;tg-s268&quot; rowspan=&quot;2&quot;&gt;1. Deudas con entidades de crédito&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&quot;tg-0lax&quot;&gt;2. Accionistas (socios) por desembolsos exigidos&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&quot;tg-0lax&quot;&gt;3. Otros deudores&lt;/td&gt;
+    &lt;td class=&quot;tg-0lax&quot; colspan=&quot;2&quot;&gt;IV. Deudas con empresas del grupo&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&quot;tg-0lax&quot; colspan=&quot;2&quot;&gt;IV. Inversiones en empresas del grupo a corto plazo&lt;/td&gt;
+    &lt;td class=&quot;tg-s268&quot; rowspan=&quot;2&quot;&gt;V. Acreedores comerciales y otras cuentas a pagar&lt;/td&gt;
+    &lt;td class=&quot;tg-0lax&quot;&gt;1. Proveedores&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&quot;tg-0lax&quot; colspan=&quot;2&quot;&gt;&lt;br /&gt;V. Inversiones financieras a corto plazo&lt;/td&gt;
+    &lt;td class=&quot;tg-0lax&quot;&gt;2. Otros acreedores&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&quot;tg-0lax&quot; colspan=&quot;2&quot;&gt;&lt;br /&gt;VI. Periodificaciones a corto plazo&lt;/td&gt;
+    &lt;td class=&quot;tg-s268&quot; colspan=&quot;2&quot; rowspan=&quot;2&quot;&gt;VI. Periodificaciones a corto plazo&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&quot;tg-0lax&quot; colspan=&quot;2&quot;&gt;VII. Efectivo y otros activos líquidos equivalentes&lt;/td&gt;
   &lt;/tr&gt;
 &lt;/table&gt;
 
@@ -125,7 +160,7 @@ Veamos la estructura de un balance de situación:&lt;/p&gt;
     &lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Tesorería + Inversiones financieras a corto plazo / Pasivo corriente&lt;/code&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;Ratio de solvencia&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">En este post trataremos sobre una de las herramientas más importantes para determinar el estado financiero actual de una empresa, el balance de situación.</summary></entry><entry><title type="html">Introducción</title><link href="http://localhost:4000/2019/01/14/introduccion.html" rel="alternate" type="text/html" title="Introducción" /><published>2019-01-14T08:29:47+01:00</published><updated>2019-01-14T08:29:47+01:00</updated><id>http://localhost:4000/2019/01/14/introduccion</id><content type="html" xml:base="http://localhost:4000/2019/01/14/introduccion.html">&lt;p&gt;Bienvenidos a mi blog.&lt;/p&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="contabilidad" /><category term="finanzas" /><summary type="html">En este post trataremos sobre una de las herramientas más importantes para determinar el estado financiero actual de una empresa, el balance de situación.</summary></entry><entry><title type="html">Introducción</title><link href="http://localhost:4000/2019/01/14/introduccion.html" rel="alternate" type="text/html" title="Introducción" /><published>2019-01-14T08:29:47+01:00</published><updated>2019-01-14T08:29:47+01:00</updated><id>http://localhost:4000/2019/01/14/introduccion</id><content type="html" xml:base="http://localhost:4000/2019/01/14/introduccion.html">&lt;p&gt;Bienvenidos a mi blog.&lt;/p&gt;
 
 &lt;p&gt;En este post pretendo dar una visión global sobre la temática del blog, que tratará sobre herramientas de gestión empresarial, enfocadas principalmente en:&lt;/p&gt;
 
